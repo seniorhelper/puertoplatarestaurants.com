@@ -1338,6 +1338,47 @@
     .sister-card .sister-domain { font-size: 11px; color: var(--gold); margin-top: 8px; font-weight: 600; }
 
     /* ════════════════════════════════════════
+       PHOTO AD BANNER
+    ════════════════════════════════════════ */
+    .photo-ad-banner {
+      background: #080b0e;
+      padding: 40px 28px;
+      text-align: center;
+    }
+    .photo-ad-banner a {
+      display: block;
+      max-width: 1120px;
+      margin: 0 auto;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 12px 48px rgba(0,0,0,0.5);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      position: relative;
+    }
+    .photo-ad-banner a:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 64px rgba(0,0,0,0.65);
+    }
+    .photo-ad-banner img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+    .photo-ad-banner-label {
+      display: inline-block;
+      background: rgba(196,122,30,0.15);
+      border: 1px solid rgba(196,122,30,0.3);
+      color: var(--gold);
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 5px 14px;
+      border-radius: 20px;
+      margin-bottom: 16px;
+    }
+
+    /* ════════════════════════════════════════
        FOOTER
     ════════════════════════════════════════ */
     footer {
@@ -1467,6 +1508,7 @@
       .footer-logo { height: 44px; }
       .why-grid { grid-template-columns: 1fr 1fr; }
       .advertise-stats { gap: 28px; }
+      .photo-ad-banner { padding: 28px 16px; }
     }
     @media (max-width: 480px) {
       .hero h1 { font-size: 2.2rem; }
@@ -2298,6 +2340,22 @@
   </section>
 
   <!-- ════════════════════════════════════════
+       PHOTO AD BANNER — inserted between sister section and footer
+  ════════════════════════════════════════ -->
+  <div class="photo-ad-banner">
+    <div class="photo-ad-banner-label">📣 Featured Sponsor</div>
+    <a href="mailto:sales@eyetoad.com?subject=Ad+Inquiry+Puerto+Plata+Restaurants" title="Advertise on PuertoPlataRestaurants.com">
+      <img
+        src="https://raw.githubusercontent.com/seniorhelper/puertoplatarestaurants.com/main/PHOTO-2026-04-23-11-33-51%20(1).JPG"
+        alt="Featured advertiser — Puerto Plata Restaurants"
+        loading="lazy"
+        width="1120"
+        height="auto"
+      />
+    </a>
+  </div>
+
+  <!-- ════════════════════════════════════════
        FOOTER
   ════════════════════════════════════════ -->
   <footer>
@@ -2623,7 +2681,6 @@
     // DRAG & DROP DISH BUILDER
     // ─────────────────────────────────────────
     const dishSuggestions = {
-      // base + protein combinations
       'rice+beans+chicken':    { en: '🍽️ La Bandera Dominicana — the national dish! Rice, beans and chicken is the heart of Dominican cooking.', es: '🍽️ ¡La Bandera Dominicana! El plato nacional. Arroz, habichuelas y pollo es el corazón de la cocina dominicana.' },
       'plantain+egg+cheese':   { en: '🌅 Mangú con los Tres Golpes — classic Dominican breakfast! Add some fried salami and you\'ve got the full experience.', es: '🌅 ¡Mangú con los Tres Golpes! El desayuno dominicano clásico. Agrega salami frito para la experiencia completa.' },
       'snapper+tomato+onion':  { en: '🐟 Pescado a la Criolla — braised whole red snapper in Dominican sofrito. A North Coast signature.', es: '🐟 Pescado a la Criolla — pargo entero guisado en sofrito dominicano. Una firma de la Costa Norte.' },
@@ -2681,7 +2738,6 @@
     function suggestDish() {
       if (droppedItems.length === 0) return;
       const resultEl = document.getElementById('dish-result');
-      // Build key from detected ingredients
       const has = (term) => droppedItems.some(i => i.toLowerCase().includes(term.toLowerCase()));
       let suggestion = null;
 
