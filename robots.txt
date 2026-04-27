@@ -1,0 +1,60 @@
+# robots.txt — PuertoPlataRestaurants.com
+# Managed by Eye To Ad Media | www.eyetoad.com | sales@eyetoad.com
+
+# ─────────────────────────────────────────
+# STANDARD SEARCH ENGINES — Allow all
+# ─────────────────────────────────────────
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Crawl-delay: 1
+
+# ─────────────────────────────────────────
+# AI CRAWLERS & LLM CITATION BOTS — Explicitly allowed
+# These bots power AI-generated answers, overviews, and citations.
+# Allowing them supports AIO (AI Optimization) and agentic search visibility.
+# ─────────────────────────────────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# ─────────────────────────────────────────
+# SITEMAP
+# ─────────────────────────────────────────
+Sitemap: https://www.puertoplatare staurants.com/sitemap.xml
