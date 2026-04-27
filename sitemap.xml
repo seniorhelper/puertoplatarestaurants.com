@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage — English -->
+  <url>
+    <loc>https://www.puertoplatare staurants.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.puertoplatare staurants.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.puertoplatare staurants.com/es/"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Homepage — Spanish -->
+  <url>
+    <loc>https://www.puertoplatare staurants.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.puertoplatare staurants.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.puertoplatare staurants.com/es/"/>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
