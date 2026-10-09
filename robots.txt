@@ -1,5 +1,5 @@
 # robots.txt — PuertoPlataRestaurants.com
-# Managed by Eye To Ad Media | www.eyetoad.com | sales@eyetoad.com
+# Managed by Eye To Ad Media | www.eyetoad.com
 
 # ─────────────────────────────────────────
 # STANDARD SEARCH ENGINES — Allow all
@@ -57,4 +57,4 @@ Allow: /
 # ─────────────────────────────────────────
 # SITEMAP
 # ─────────────────────────────────────────
-Sitemap: https://www.puertoplatare staurants.com/sitemap.xml
+Sitemap: https://www.puertoplatarestaurants.com/sitemap.xml
