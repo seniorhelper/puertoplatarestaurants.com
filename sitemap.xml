@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.puertoplatarestaurants.com/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url><loc>https://puertoplatarestaurants.com/</loc><lastmod>2026-10-11</lastmod><priority>1.0</priority></url>
+<url><loc>https://puertoplatarestaurants.com/restaurants/</loc><lastmod>2026-10-11</lastmod><priority>0.9</priority></url>
+<url><loc>https://puertoplatarestaurants.com/malecon/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/centro-historico/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/playa-dorada/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/costambar-cofresi/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/cruise-port-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/dominican-food/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/dominican-recipes/</loc><lastmod>2026-10-11</lastmod><priority>0.6</priority></url>
+<url><loc>https://puertoplatarestaurants.com/seafood/</loc><lastmod>2026-10-11</lastmod><priority>0.7</priority></url>
+<url><loc>https://puertoplatarestaurants.com/cheap-eats/</loc><lastmod>2026-10-11</lastmod><priority>0.7</priority></url>
+<url><loc>https://puertoplatarestaurants.com/perfect-meal/</loc><lastmod>2026-10-11</lastmod><priority>0.8</priority></url>
+<url><loc>https://puertoplatarestaurants.com/tipping-money/</loc><lastmod>2026-10-11</lastmod><priority>0.7</priority></url>
+<url><loc>https://puertoplatarestaurants.com/about/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://puertoplatarestaurants.com/contact/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
+<url><loc>https://puertoplatarestaurants.com/privacy/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://puertoplatarestaurants.com/terms/</loc><lastmod>2026-10-11</lastmod><priority>0.3</priority></url>
+<url><loc>https://puertoplatarestaurants.com/editorial-policy/</loc><lastmod>2026-10-11</lastmod><priority>0.4</priority></url>
 </urlset>

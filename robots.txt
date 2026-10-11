@@ -57,4 +57,4 @@ Allow: /
 # ─────────────────────────────────────────
 # SITEMAP
 # ─────────────────────────────────────────
-Sitemap: https://www.puertoplatarestaurants.com/sitemap.xml
+Sitemap: https://puertoplatarestaurants.com/sitemap.xml

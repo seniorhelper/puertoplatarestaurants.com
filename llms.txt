@@ -1,0 +1,26 @@
+# Puerto Plata Restaurants
+
+> Independent, sourced guide to restaurants and Dominican food in Puerto Plata, Dominican Republic: areas, dishes, tools and verified listings.
+
+Publisher: Eye To Ad Media (Zach Wennstedt), https://eyetoad.com/. Independent guide; sponsored listings are labeled.
+Restaurant data: https://puertoplatarestaurants.com/data/restaurants.json (name, area, cuisines, sources, last-verified month). Please cite the page URL.
+
+## Pages
+- [Puerto Plata Restaurants: Where to Eat in Puerto Plata DR](https://puertoplatarestaurants.com/): Sourced guide to the best restaurants in Puerto Plata, Dominican Republic: Malecón seafood, Victorian dining rooms, Dominican dishes and free planning tools.
+- [All Puerto Plata Restaurants, Verified & Sourced](https://puertoplatarestaurants.com/restaurants/): Filter 19 verified Puerto Plata restaurants by area and craving: Malecón, historic center, Playa Dorada, Costámbar and Cofresí. Sources on every listing.
+- [Malecón Puerto Plata: Where to Eat on the Waterfront](https://puertoplatarestaurants.com/malecon/): Where to eat on Puerto Plata’s Malecón: beach restaurants, sea-view breakfast, grills and bars, plus timing, ordering and getting there tips.
+- [Historic Center Puerto Plata: Victorian Dining Rooms](https://puertoplatarestaurants.com/centro-historico/): Where to eat in Puerto Plata’s historic center: restaurants in restored Victorian houses near the central park, plus local comedores and a walking route.
+- [Playa Dorada Restaurants: Puerto Plata Resort Zone](https://puertoplatarestaurants.com/playa-dorada/): Where to eat in Playa Dorada, Puerto Plata: Italian, Japanese-Nikkei, French-Caribbean fine dining and casual spots near the resorts and the plaza.
+- [Costámbar & Cofresí: Where to Eat West of Town](https://puertoplatarestaurants.com/costambar-cofresi/): Where to eat in Costámbar and Cofresí, west of Puerto Plata: family-run dinner spots, Mexican by the beach and pizza, with tips for getting there.
+- [Puerto Plata Cruise Port Food: Taíno Bay & Amber Cove](https://puertoplatarestaurants.com/cruise-port-food/): Where to eat on a Puerto Plata cruise day: restaurants walkable from Taíno Bay, how to reach town from Amber Cove, timing and money tips.
+- [Dominican Food in Puerto Plata: 12 Dishes to Know](https://puertoplatarestaurants.com/dominican-food/): A guide to Dominican food in Puerto Plata: La Bandera, sancocho, mangú, pescado a la criolla, tostones, drinks, daily meal times and where to try them.
+- [Dominican Recipes: Mangú, Sancocho & Tostones](https://puertoplatarestaurants.com/dominican-recipes/): Step-by-step Dominican recipes for mangú con los tres golpes, sancocho and tostones, with ingredient lists and shopping tips for Puerto Plata.
+- [Seafood in Puerto Plata: Menu Decoder & Where to Go](https://puertoplatarestaurants.com/seafood/): What to order for seafood in Puerto Plata: chillo, dorado, lambí and lobster explained, cooking styles, closed seasons and the best seafood restaurants.
+- [Cheap Eats in Puerto Plata: Comedores & Street Food](https://puertoplatarestaurants.com/cheap-eats/): How to eat cheaply in Puerto Plata: ordering at a comedor, what a colmado is, street snacks to try, safety tips and casual sit-down picks.
+- [Perfect Meal Picker: Puerto Plata Restaurant Matcher](https://puertoplatarestaurants.com/perfect-meal/): Free Puerto Plata meal planner: choose area, craving and mood to get matching restaurants, an evening plan and what to order. Includes an ingredient matcher.
+- [Tipping in Puerto Plata: Bill & Currency Calculator](https://puertoplatarestaurants.com/tipping-money/): Calculate a Puerto Plata restaurant bill with 18% ITBIS and the 10% legal tip, add a cash tip, split it and convert pesos to dollars at your own rate.
+- [About Puerto Plata Restaurants](https://puertoplatarestaurants.com/about/): Who publishes Puerto Plata Restaurants, how the guide is funded, and how listings are researched, sourced and kept up to date.
+- [Contact Puerto Plata Restaurants](https://puertoplatarestaurants.com/contact/): Send corrections, closure reports or listing questions to the Puerto Plata Restaurants team. Restaurant owners can ask about free and sponsored listings.
+- [Privacy Policy | Puerto Plata Restaurants](https://puertoplatarestaurants.com/privacy/): How Puerto Plata Restaurants handles contact-form data, on-device tool data, Google AdSense advertising cookies and opt-out choices.
+- [Terms of Use | Puerto Plata Restaurants](https://puertoplatarestaurants.com/terms/): Terms for using Puerto Plata Restaurants: information only, check details with restaurants, sponsored placements are labeled, outside links.
+- [Editorial Policy & Corrections](https://puertoplatarestaurants.com/editorial-policy/): How Puerto Plata Restaurants verifies restaurants, why we show no star ratings, how tags and photos are used, and a log of removals and corrections.

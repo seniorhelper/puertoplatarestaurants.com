@@ -1,0 +1,996 @@
+{
+ "site": "https://puertoplatarestaurants.com",
+ "generated": "2026-10-11",
+ "license": "Facts compiled by Puerto Plata Restaurants; cite the site when reusing. Descriptions are our own words.",
+ "notes": "price and hours are null unless sourced from the business itself; lat/lng null where no verified coordinate exists; tags are editor's tags derived from the cited sources.",
+ "restaurants": [
+  {
+   "slug": "la-isabela",
+   "name": "La Isabela Colonial Restaurant",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle Profesor Juan Bosch 77, per its listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": "https://www.instagram.com/laisabelapop/",
+   "cuisines": [
+    "Caribbean fusion",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "international",
+     "fine"
+    ],
+    "moods": [
+     "romantic",
+     "historic"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Restored Victorian house",
+    "Live music (per reviewers)"
+   ],
+   "summary_text": "A Caribbean-fusion dining room in a restored Victorian house in the historic center. Reviewers mention a grand piano with live music, local artwork on the walls and a menu that leans toward seafood.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d25274355-Reviews-La_Isabela_Restaurant_Puerto_Plata-Puerto_Plata_Puerto_Plata_Province_Dominican_.html"
+    ],
+    [
+     "Puerto Plata DR: La Isabela",
+     "https://puertoplatadr.com/restaurants/la-isabela-restaurant/"
+    ],
+    [
+     "My Guide Dominican Republic",
+     "https://www.myguidedominicanrepublic.com/restaurants/la-isabela-colonial-restaurant"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "casa-40",
+   "name": "Casa 40",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle Duarte, near the central park (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Mediterranean",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international"
+    ],
+    "moods": [
+     "historic",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Victorian house",
+    "Back patio"
+   ],
+   "summary_text": "An artsy, relaxed spot in an old Victorian house on Calle Duarte, a few steps from the central park and cathedral. The national tourism site highlights its Mediterranean and international plates; reviewers like the back patio and the margaritas. Tripadvisor shows it closed on Tuesdays, so check before you walk over.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d13071679-Reviews-Casa_40-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Visit Dominican Republic: Where to Eat in Puerto Plata",
+     "https://visitdominicanrepublic.com/food-drink/where-to-eat-puerto-plata-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "casita-azul",
+   "name": "Casita Azul Victorian Bar & Grill",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle Beller 40, on the main square",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean fusion",
+    "Seafood",
+    "Grill"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "international",
+     "fine"
+    ],
+    "moods": [
+     "romantic",
+     "historic"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "House built in 1879",
+    "Main square"
+   ],
+   "summary_text": "A blue Victorian house dating from 1879 on the historic center’s main square, now a bar and grill with a seafood-leaning Caribbean-fusion menu. The national tourism board lists it among the places locals choose.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d15708954-Reviews-Casita_Azul_Victorian_Bar_Grill-Puerto_Plata_Puerto_Plata_Province_Dominican_Rep.html"
+    ],
+    [
+     "Puerto Plata DR: La Casita Azul",
+     "https://puertoplatadr.com/restaurants/la-casita-azul/"
+    ],
+    [
+     "Visit Dominican Republic: Where to Eat in Puerto Plata",
+     "https://visitdominicanrepublic.com/food-drink/where-to-eat-puerto-plata-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "kaffe",
+   "name": "Kaffe Restaurant",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle Profesor Juan Bosch (per Puerto Plata DR)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "International",
+    "Dominican"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international",
+     "dominican",
+     "cafe"
+    ],
+    "moods": [
+     "historic",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Antiques & period furniture"
+   ],
+   "summary_text": "Part restaurant, part museum: antiques, Queen Anne chairs and original ceramic floors fill this Victorian house. The menu mixes international and local dishes, from burgers and pasta to prawns and steak.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Puerto Plata DR: Kaffe",
+     "https://puertoplatadr.com/restaurants/kaffe/"
+    ],
+    [
+     "Gamin Traveler: Puerto Plata food",
+     "https://www.gamintraveler.com/2023/11/01/restaurants-in-puerto-plata/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "skina",
+   "name": "Skina Restaurante",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle 12 de Julio (Separación), per listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Dominican",
+    "Caribbean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "dominican"
+    ],
+    "moods": [
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Local favorite",
+    "Big portions (per reviewers)"
+   ],
+   "summary_text": "A no-fuss downtown favorite for Dominican and Caribbean plates. Reviewers point to generous portions, and sancocho and fajitas come up again and again. The tourism board includes it in its locals’ list.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.co.uk/Restaurant_Review-g147290-d4006833-Reviews-Skina-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Foursquare",
+     "https://foursquare.com/v/skina-bar--restaurant/4f09f0d4e4b0d6422c67c6d5"
+    ],
+    [
+     "Visit Dominican Republic: Where to Eat in Puerto Plata",
+     "https://visitdominicanrepublic.com/food-drink/where-to-eat-puerto-plata-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "sambalu",
+   "name": "Sambalú",
+   "status": "open",
+   "area": "centro",
+   "area_label": "Centro Histórico",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean fusion",
+    "Cocktails"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international",
+     "bar"
+    ],
+    "moods": [
+     "lively",
+     "romantic"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Cocktails",
+    "Newer opening"
+   ],
+   "summary_text": "A newer Caribbean-fusion restaurant in the historic center that local guides mention for its cocktails, signature dishes and good-looking setting.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Puerto Plata DR: restaurant directory",
+     "https://puertoplatadr.com/puerto-plata-restaurants/"
+    ],
+    [
+     "Restaurant Guru: Puerto Plata",
+     "https://restaurantguru.com/Puerto-Plata"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "la-carihuela",
+   "name": "La Carihuela Beach",
+   "status": "open",
+   "area": "malecon",
+   "area_label": "El Malecón",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "On the Malecón beach (Cosita Rica area), per listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Seafood",
+    "Dominican"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "dominican",
+     "bar"
+    ],
+    "moods": [
+     "view",
+     "casual",
+     "lively"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "On the sand",
+    "Full bar"
+   ],
+   "summary_text": "One of the best-known beach restaurants on the Malecón. Expect Dominican staples such as rice, fried fish and tostones, seafood soups, and a full bar with local rum, cocktails and beer.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d10028228-Reviews-La_Carihuela_Beach-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Puerto Plata DR: La Carihuela",
+     "https://puertoplatadr.com/restaurants/carihuela/"
+    ],
+    [
+     "Visit Dominican Republic: Where to Eat in Puerto Plata",
+     "https://visitdominicanrepublic.com/food-drink/where-to-eat-puerto-plata-restaurants/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "tam-tam",
+   "name": "Tam Tam Restaurant",
+   "status": "open",
+   "area": "malecon",
+   "area_label": "El Malecón",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Malecón (Av. Luis Ginebra), per listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Seafood",
+    "Caribbean",
+    "Breakfast"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "seafood",
+     "cafe"
+    ],
+    "moods": [
+     "view",
+     "casual"
+    ]
+   },
+   "meals": [
+    "breakfast"
+   ],
+   "labels": [
+    "Sea-view terrace",
+    "Breakfast"
+   ],
+   "summary_text": "A long-running Malecón landmark with a terrace and second-floor views of the Atlantic. Locals and expats come for breakfast and coffee; later in the day the fried whole fish and other seafood are the draw.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d2350304-Reviews-Tam_Tam_Restaurant_Puerto_Plata-Puerto_Plata_Puerto_Plata_Province_Dominican_Repu.html"
+    ],
+    [
+     "Gamin Traveler: Puerto Plata food",
+     "https://www.gamintraveler.com/2023/11/01/restaurants-in-puerto-plata/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "big-lees",
+   "name": "Big Lee's Beach Bar",
+   "status": "open",
+   "area": "malecon",
+   "area_label": "El Malecón",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Caseta 8, Malecón (per Tripadvisor)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "American",
+    "Bar food"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "bar",
+     "international"
+    ],
+    "moods": [
+     "casual",
+     "lively"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Beach bar",
+    "Budget"
+   ],
+   "summary_text": "A casual beach bar on the Malecón serving American-style bar food at budget prices. It is one of the most-reviewed spots on the waterfront.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in Puerto Plata",
+     "https://www.tripadvisor.com/Restaurants-g147290-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Gamin Traveler: Puerto Plata food",
+     "https://www.gamintraveler.com/2023/11/01/restaurants-in-puerto-plata/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "el-asadero",
+   "name": "El Asadero Rincón Parrillero",
+   "status": "open",
+   "area": "malecon",
+   "area_label": "El Malecón",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": null,
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Steakhouse",
+    "Caribbean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "steak"
+    ],
+    "moods": [
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Grill"
+   ],
+   "summary_text": "A grill house in the Malecón area for meat lovers; reviewers praise the rib eye.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants near the Malecón",
+     "https://www.tripadvisor.com/RestaurantsNear-g147290-d4882767-Malecon_Puerto_Plata-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "low"
+  },
+  {
+   "slug": "lucia",
+   "name": "Lucía at Casa Colonial",
+   "status": "open",
+   "area": "playa-dorada",
+   "area_label": "Playa Dorada",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Casa Colonial Beach & Spa hotel",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": "https://www.casacolonialhotel.com/en/restaurants/",
+   "cuisines": [
+    "French-Caribbean",
+    "Fine dining"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "international",
+     "seafood"
+    ],
+    "moods": [
+     "romantic",
+     "view"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Fodor’s Choice",
+    "Reserve ahead"
+   ],
+   "summary_text": "The fine-dining room of the Casa Colonial hotel. The hotel describes French-Caribbean cooking with views over the mangroves; Fodor’s gives it a Fodor’s Choice mark, notes there is no lunch service and says reservations are essential.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Casa Colonial: restaurants",
+     "https://www.casacolonialhotel.com/en/restaurants/"
+    ],
+    [
+     "Fodor’s: Lucía review",
+     "https://www.fodors.com/world/caribbean/dominican-republic/north-coast/restaurants/reviews/lucia-427292"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "passatore",
+   "name": "Ristorante Passatore",
+   "status": "open",
+   "area": "playa-dorada",
+   "area_label": "Playa Dorada",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Playa Dorada Plaza (mall), per listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Italian",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "italian",
+     "seafood"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Italian"
+   ],
+   "summary_text": "An Italian and seafood restaurant at the Playa Dorada shopping plaza that sits near the top of Tripadvisor’s Puerto Plata list.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d12032815-Reviews-Ristorante_Passatore-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Tripadvisor: near Playa Dorada Mall",
+     "https://www.tripadvisor.com/RestaurantsNear-g147290-d9872327-Playa_Dorada_Mall-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "mikasa",
+   "name": "Mikasa Japanese Nikkei Cuisine",
+   "status": "open",
+   "area": "playa-dorada",
+   "area_label": "Playa Dorada",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Playa Dorada Plaza, per listings",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Japanese",
+    "Nikkei",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "japanese",
+     "seafood"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Japanese-Peruvian"
+   ],
+   "summary_text": "Japanese and Nikkei (Japanese-Peruvian) cooking at the Playa Dorada plaza, one of the few places in the city focused on Japanese food.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d25170835-Reviews-Mikasa_Japanese_Nikkei_Cuisine-Puerto_Plata_Puerto_Plata_Province_Dominican_Repu.html"
+    ],
+    [
+     "Tripadvisor: near Playa Dorada Mall",
+     "https://www.tripadvisor.com/RestaurantsNear-g147290-d9872327-Playa_Dorada_Mall-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "green-jack",
+   "name": "Green Jack Restaurant",
+   "status": "open",
+   "area": "playa-dorada",
+   "area_label": "Playa Dorada",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Playa Dorada complex, by Blue JackTar (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean",
+    "Grill"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "steak",
+     "dominican"
+    ],
+    "moods": [
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Casual",
+    "Churrasco (per reviewers)"
+   ],
+   "summary_text": "A relaxed Caribbean restaurant in the Playa Dorada complex near the Blue JackTar resort. Reviewers single out the churrasco steak and describe the room as very casual.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d3980861-Reviews-Green_Jack_Restaurant-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Tripadvisor: near Playa Dorada Mall",
+     "https://www.tripadvisor.com/RestaurantsNear-g147290-d9872327-Playa_Dorada_Mall-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "le-petit-francois",
+   "name": "Le Petit François",
+   "status": "open",
+   "area": "playa-dorada",
+   "area_label": "Playa Dorada",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "El Pueblito, Playa Dorada (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean",
+    "Canadian"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international"
+    ],
+    "moods": [
+     "view",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Beachfront",
+    "Takeout"
+   ],
+   "summary_text": "A beachfront spot in Playa Dorada’s El Pueblito area serving Caribbean food with a Canadian touch; takeout is available.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: restaurants in Puerto Plata",
+     "https://www.tripadvisor.com/Restaurants-g147290-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Evendo: best restaurants in Puerto Plata",
+     "https://evendo.com/locations/dominican-republic/puerto-plata/best-restaurants"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  },
+  {
+   "slug": "le-papillon",
+   "name": "Le Papillon",
+   "status": "open",
+   "area": "cofresi",
+   "area_label": "Cofresí",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Villas Cofresí (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "European",
+    "Seafood"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "fine",
+     "seafood",
+     "international"
+    ],
+    "moods": [
+     "romantic"
+    ]
+   },
+   "meals": [
+    "dinner"
+   ],
+   "labels": [
+    "Dinner",
+    "Book ahead"
+   ],
+   "summary_text": "A long-standing dinner restaurant in Villas Cofresí that pairs European classics with fresh Caribbean seafood. Seating is limited, and reviewers recommend booking.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d1050470-Reviews-Le_Papillon-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Gamin Traveler: Puerto Plata food",
+     "https://www.gamintraveler.com/2023/11/01/restaurants-in-puerto-plata/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "los-tres-cocos",
+   "name": "Los Tres Cocos",
+   "status": "open",
+   "area": "cofresi",
+   "area_label": "Cofresí",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "La Roca, Cofresí (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Caribbean",
+    "International"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "international",
+     "seafood"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Family-run",
+    "Open since 2006"
+   ],
+   "summary_text": "A family-run restaurant at La Roca in Cofresí, open since July 2006, with a Caribbean and international menu. Reviewers suggest reserving.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d1835564-Reviews-Los_Tres_Cocos-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Sluurpy: Los Tres Cocos",
+     "https://www.sluurpy.com/en/puerto-plata/restaurant/6027423/los-tres-cocos"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "charros-caribemex",
+   "name": "Charros CaribeMex",
+   "status": "open",
+   "area": "cofresi",
+   "area_label": "Cofresí",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Cofresí Beach 5 (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": "https://www.facebook.com/charroscaribemex/",
+   "cuisines": [
+    "Mexican",
+    "Caribbean"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "mexican"
+    ],
+    "moods": [
+     "family",
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Near the beach",
+    "Family pool (per its page)"
+   ],
+   "summary_text": "Mexican and Caribbean food a short walk from Cofresí beach. Its own page describes it as award-winning and mentions a family pool.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor listing",
+     "https://www.tripadvisor.com/Restaurant_Review-g147290-d1754565-Reviews-Charros_CaribeMex-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Charros CaribeMex on Facebook",
+     "https://www.facebook.com/charroscaribemex/"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "high"
+  },
+  {
+   "slug": "sole-mio",
+   "name": "Sole Mio",
+   "status": "open",
+   "area": "costambar",
+   "area_label": "Costámbar",
+   "locality": "Puerto Plata",
+   "country": "DO",
+   "address": "Calle Anacaona 1, Costámbar (per listings)",
+   "lat": null,
+   "lng": null,
+   "geo_source": null,
+   "geo_precision": null,
+   "phone": null,
+   "website": null,
+   "cuisines": [
+    "Italian",
+    "Pizza"
+   ],
+   "price": null,
+   "hours": null,
+   "hours_source": null,
+   "tags": {
+    "groups": [
+     "italian"
+    ],
+    "moods": [
+     "casual"
+    ]
+   },
+   "meals": [],
+   "labels": [
+    "Pizza & pasta"
+   ],
+   "summary_text": "A small Italian kitchen for pizza and pasta, a little out of the way inside Costámbar. One local guide calls it the best place in Puerto Plata for both.",
+   "sponsored": false,
+   "sources": [
+    [
+     "Tripadvisor: near Costámbar",
+     "https://www.tripadvisor.com/RestaurantsNear-g147290-d6411665-Apartments_Costambar-Puerto_Plata_Puerto_Plata_Province_Dominican_Republic.html"
+    ],
+    [
+     "Tidal Treasures: Puerto Plata guide",
+     "https://tidaltreasurespop.com/blog/puerto-plata-destination-guide"
+    ]
+   ],
+   "verified": "2026-10",
+   "confidence": "medium"
+  }
+ ]
+}
